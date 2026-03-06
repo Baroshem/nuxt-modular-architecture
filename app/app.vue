@@ -5,6 +5,6 @@ const hello = capitalize('hello')
 <template>
   <div>
     <NuxtRouteAnnouncer />
-    <NuxtWelcome />
+    <NuxtPage />
   </div>
 </template>
